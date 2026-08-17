@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="demo-advanced" tvg-name="Demo Advanced HLS" group-title="Demo",Demo Advanced HLS
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="demo-player-test" tvg-name="Demo Player Test" group-title="Player Test",Demo Player Test
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
